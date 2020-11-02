@@ -441,5 +441,18 @@ h1,h2,h3{
 	color: #F3F3F3;
 	border-radius: 0;
 }
+
+@media screen (max-width: 640px;){
+	#home img {
+		padding: 0 auto;
+		width: 100%;
+	}
+}
+@media screen (max-width: 640px;){
+	#home img {
+		padding: 5px auto;
+		width: 100%;
+	}
+}
 /* END OF DOCUMENTATION */
 /* END OF CUSTOM CSS */
