@@ -442,9 +442,9 @@ h1,h2,h3{
 	border-radius: 0;
 }
 
-@media screen (max-width: 640px;){
+@media screen (max-width: 720px;){
 	#home img {
-		padding: 0 auto;
+		padding: 5px auto;
 		width: 100%;
 	}
 }
